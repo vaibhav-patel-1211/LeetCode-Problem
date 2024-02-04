@@ -21,12 +21,8 @@
  * Output: 5, nums = [0,1,4,0,3,_,_,_]
  */
 
-//  solution 1 : 
-/*
- *  this solution require O(n) time and space complexity.
- */
-
 class Solution {
+    //solution 1
     int removeElement(int arr[], int val) {
         int j = 0;
         int n = arr.length;
