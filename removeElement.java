@@ -36,7 +36,6 @@ class Solution {
         }
 
         return j;
-
     }
     // solution 2: 
     int removeElement2(int arr[]) {
